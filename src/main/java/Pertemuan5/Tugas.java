@@ -1,4 +1,4 @@
-package com.irsa.praktikumpbo;
+package Pertemuan5;
 
 import java.util.Scanner;
 

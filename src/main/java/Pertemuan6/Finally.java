@@ -1,4 +1,4 @@
-package com.irsa.praktikumpbo.pertemuan6;
+package Pertemuan6;
 
 public class Finally {
     public static void main(String[] args) {

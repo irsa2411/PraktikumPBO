@@ -1,4 +1,4 @@
-package com.irsa.praktikumpbo.pertemuan6;
+package Pertemuan6;
 
 import java.text.DateFormat;
 
